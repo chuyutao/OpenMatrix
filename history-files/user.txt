@@ -1,0 +1,4 @@
+Timestamp: 2024-02-01 19:31:37
+User: Name: Tracy
+Age: 21
+Living in: Los Angeles
